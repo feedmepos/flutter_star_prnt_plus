@@ -1,6 +1,6 @@
 PODS:
   - Flutter (1.0.0)
-  - flutter_star_prnt_plus (0.0.2):
+  - flutter_star_prnt_plus (0.0.3):
     - Flutter
 
 DEPENDENCIES:
@@ -14,9 +14,9 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/flutter_star_prnt_plus/ios"
 
 SPEC CHECKSUMS:
-  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  flutter_star_prnt_plus: 2357ba3bd4852182c2711c3a14fdcb4a38ee2a3d
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  flutter_star_prnt_plus: 0da57083abe8c1ef7d3c834233187b7d21362004
 
-PODFILE CHECKSUM: c4c93c5f6502fe2754f48404d3594bf779584011
+PODFILE CHECKSUM: 4e81e7425a38034f1308c8d65657c616aea462d3
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
