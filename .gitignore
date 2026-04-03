@@ -12,3 +12,6 @@ build/
 android/bin/
 
 **/android/local.properties
+
+# FVM Version Cache
+.fvm/
