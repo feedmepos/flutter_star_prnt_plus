@@ -14,7 +14,7 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/flutter_star_prnt_plus/ios"
 
 SPEC CHECKSUMS:
-  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
   flutter_star_prnt_plus: e862adbe926495d00452cfb1b887a1acac160b63
 
 PODFILE CHECKSUM: 775997f741c536251164e3eacf6e34abf2eb7a17
